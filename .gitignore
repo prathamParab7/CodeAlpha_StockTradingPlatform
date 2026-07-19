@@ -1,0 +1,13 @@
+# Java compiled class files
+*.class
+
+# Program data files (local storage)
+portfolio.txt
+transactions.txt
+
+# Log files
+*.log
+
+# OS metadata files
+.DS_Store
+Thumbs.db
